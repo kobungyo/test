@@ -15,6 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+	net.kobungyo.hoge.App.main(null);
         assertTrue( true );
     }
 }
